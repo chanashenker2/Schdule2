@@ -1,0 +1,180 @@
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\csc.exe
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\System.Collections.Immutable.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\System.Reflection.Metadata.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\vbc.exe
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\VBCSCompiler.exe
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\roslyn\VBCSCompiler.exe.config
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\TimeClock.dll.config
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\TimeClock.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\TimeClock.pdb
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.AI.DependencyCollector.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.AI.Web.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.AI.WindowsServer.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.ApplicationInsights.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.AI.DependencyCollector.xml
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.AI.Web.xml
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.AI.WindowsServer.xml
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.ApplicationInsights.xml
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\obj\Debug\TimeClock.csprojResolveAssemblyReference.cache
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\obj\Debug\TimeClock.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\obj\Debug\TimeClock.pdb
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Antlr3.Runtime.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\BundleTransformer.Core.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\BundleTransformer.SassAndScss.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\LibSassHost.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Microsoft.Web.Infrastructure.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Newtonsoft.Json.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\System.Web.Optimization.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\WebGrease.dll
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Antlr3.Runtime.pdb
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\LibSassHost.xml
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\Newtonsoft.Json.xml
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\System.Web.Optimization.xml
+Y:\G2\Shenker_c\My_Projects\יום שלישי\TimeClock\TimeClock\bin\ru-ru\BundleTransformer.Core.resources.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\csc.exe
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\System.Collections.Immutable.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\System.Reflection.Metadata.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\vbc.exe
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\VBCSCompiler.exe
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\VBCSCompiler.exe.config
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\TimeClock.dll.config
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\TimeClock.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\TimeClock.pdb
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Antlr3.Runtime.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\BundleTransformer.Core.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\BundleTransformer.SassAndScss.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\LibSassHost.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.Agent.Intercept.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.DependencyCollector.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.Web.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.WindowsServer.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.ApplicationInsights.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.Web.Infrastructure.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Newtonsoft.Json.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\System.Web.Optimization.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\WebGrease.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Antlr3.Runtime.pdb
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\LibSassHost.xml
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.DependencyCollector.xml
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.Web.xml
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.WindowsServer.xml
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.ApplicationInsights.xml
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Newtonsoft.Json.xml
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\System.Web.Optimization.xml
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\ru-ru\BundleTransformer.Core.resources.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\obj\Debug\TimeClock.csprojResolveAssemblyReference.cache
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\obj\Debug\TimeClock.dll
+I:\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\obj\Debug\TimeClock.pdb
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\csc.exe
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\System.Collections.Immutable.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\System.Reflection.Metadata.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\vbc.exe
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\VBCSCompiler.exe
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\VBCSCompiler.exe.config
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\TimeClock.dll.config
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\TimeClock.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\TimeClock.pdb
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Antlr3.Runtime.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\BundleTransformer.Core.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\BundleTransformer.SassAndScss.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\LibSassHost.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.Agent.Intercept.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.DependencyCollector.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.Web.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.WindowsServer.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.ApplicationInsights.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.Web.Infrastructure.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Newtonsoft.Json.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\System.Web.Optimization.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\WebGrease.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Antlr3.Runtime.pdb
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\LibSassHost.xml
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.DependencyCollector.xml
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.Web.xml
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.WindowsServer.xml
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.ApplicationInsights.xml
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Newtonsoft.Json.xml
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\System.Web.Optimization.xml
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\ru-ru\BundleTransformer.Core.resources.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\obj\Debug\TimeClock.csprojResolveAssemblyReference.cache
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\obj\Debug\TimeClock.dll
+E:\חני ו סמינר\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\obj\Debug\TimeClock.pdb
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\csc.exe
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\System.Collections.Immutable.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\System.Reflection.Metadata.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\vbc.exe
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\VBCSCompiler.exe
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\roslyn\VBCSCompiler.exe.config
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\TimeClock.dll.config
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\TimeClock.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\TimeClock.pdb
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Antlr3.Runtime.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\BundleTransformer.Core.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\BundleTransformer.SassAndScss.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\LibSassHost.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.Agent.Intercept.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.DependencyCollector.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.Web.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.WindowsServer.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.ApplicationInsights.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.Web.Infrastructure.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Newtonsoft.Json.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\System.Web.Optimization.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\WebGrease.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Antlr3.Runtime.pdb
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\LibSassHost.xml
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.DependencyCollector.xml
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.Web.xml
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.AI.WindowsServer.xml
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.ApplicationInsights.xml
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\Newtonsoft.Json.xml
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\System.Web.Optimization.xml
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\bin\ru-ru\BundleTransformer.Core.resources.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\obj\Debug\TimeClock.csprojResolveAssemblyReference.cache
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\obj\Debug\TimeClock.dll
+H:\ \לדסי רוזנברג\אחרי הגשה\אאאאאאאאאאאאאאאאאאאאאחרון\TimeClock\TimeClock\obj\Debug\TimeClock.pdb
